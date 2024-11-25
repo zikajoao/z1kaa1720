@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
-  --text-color: #e2ff03;
-  --card-front-color: #dc863a;
-  --card-back-color: #eae4bd;
+  --text-color: #000000;
+  --card-front-color: #c97676;
+  --card-back-color: #00ff00;
 }
 
 body {
-  background: url(Casaflutuantepraia.jpg);
+  background: url(png-transparent-clube-de-regatas-do-flamengo-botafogo-de-futebol-e-regatas-brazil-ninho-do-urubu-copa-do-brasil-high-tech-emblem-logo-high-tech-thumbnail.png);
   font-family: Grandstander;
   background-size: cover;
 
